@@ -1,0 +1,11 @@
+{
+  "name": "vex-wp",
+  "version": "0.1.0",
+  "description": "Vex theme based on WordPress media modal.",
+  "author": "Maintainn <info@maintainn.com>",
+  "devDependencies": {
+    "grunt-cli": "~0.1.9",
+    "grunt": "~0.4.1",
+    "grunt-contrib-compass": "~0.5.0"
+  }
+}
